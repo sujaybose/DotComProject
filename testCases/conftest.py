@@ -1,8 +1,6 @@
 import pytest
 from selenium import webdriver
 
-from webdriver_manager.firefox import GeckoDriverManager
-from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.edge.service import Service as EdgeService
@@ -18,7 +16,7 @@ def setup(browser):
         print("Launching chrome browser.........")
     elif browser=='firefox':
         driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
-        print("Launching firefox browser.........") # https://pypi.org/project/webdriver-manager/
+        print("Launching firefox browser.........")     #Read:https://pypi.org/project/webdriver-manager
     elif browser=='edge':
         driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
         print("Launching edge browser.........")
@@ -41,6 +39,7 @@ def pytest_configure(config):
     config._metadata['Project Name'] = 'SeleniumAutomation'
     config._metadata['Module Name'] = 'DotCom'
     config._metadata['Tester'] = 'Sujay'
+    config._metadata['Browser'] = config.getoption("--browser")
 
 # It is hook for delete/Modify Environment info to HTML Report
 # @pytest.mark.optionalhook

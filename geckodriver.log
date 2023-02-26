@@ -59,3 +59,47 @@ JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A
 JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A%2F%2Fwww.jetblue.com%2Fbooking%2Fflights%3Ffrom%3DNYC%26to%3DSEA%26depart%3D2023-08-08%26return%3D2023-09-09%26isMultiCity%3Dfalse%26noOfRoute%3D1%26lang%3Den%26adults%3D1%26children%3D0%26infants%3D0%26sharedMarket%3Dfalse%26roundTripFaresFlag%3Dfalse%26usePoints%3Dfalse, line 3: unreachable code after return statement
 1677427788288	Marionette	INFO	Stopped listening on port 51039
 Dynamically enable window occlusion 1
+1677428544893	geckodriver	INFO	Listening on 127.0.0.1:51817
+1677428547967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sujay\\AppData\\Local\\Temp\\rust_mozprofileHhCFoK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677428548708	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677428548714	Marionette	INFO	Listening on port 51825
+Read port: 51825
+WebDriver BiDi listening on ws://127.0.0.1:51818
+1677428548863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sujay\\AppData\\Local\\Temp\\rust_mozprofileHhCFoK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51818/devtools/browser/88f572de-b8c3-4dbb-bd68-d20c1ae6b2b7
+1677428555713	Marionette	INFO	Stopped listening on port 51825
+Dynamically enable window occlusion 1
+1677428557678	geckodriver	INFO	Listening on 127.0.0.1:51868
+1677428560720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sujay\\AppData\\Local\\Temp\\rust_mozprofile9E6jN7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677428561043	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677428561047	Marionette	INFO	Listening on port 51876
+WebDriver BiDi listening on ws://127.0.0.1:51869
+Read port: 51876
+1677428561326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sujay\\AppData\\Local\\Temp\\rust_mozprofile9E6jN7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51869/devtools/browser/3c5ad44c-db64-409d-b738-20188364c990
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.jetblue.com."
+JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A%2F%2Fwww.jetblue.com%2F, line 4: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A%2F%2Fwww.jetblue.com%2F, line 3: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A%2F%2Fwww.jetblue.com%2F, line 3: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A%2F%2Fwww.jetblue.com%2F, line 3: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A%2F%2Fwww.jetblue.com%2F, line 3: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A%2F%2Fwww.jetblue.com%2F, line 3: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A%2F%2Fwww.jetblue.com%2Fbooking%2Fflights%3Ffrom%3DNYC%26to%3DSEA%26depart%3D2023-08-08%26return%3D2023-09-09%26isMultiCity%3Dfalse%26noOfRoute%3D1%26lang%3Den%26adults%3D1%26children%3D0%26infants%3D0%26sharedMarket%3Dfalse%26roundTripFaresFlag%3Dfalse%26usePoints%3Dfalse, line 4: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A%2F%2Fwww.jetblue.com%2Fbooking%2Fflights%3Ffrom%3DNYC%26to%3DSEA%26depart%3D2023-08-08%26return%3D2023-09-09%26isMultiCity%3Dfalse%26noOfRoute%3D1%26lang%3Den%26adults%3D1%26children%3D0%26infants%3D0%26sharedMarket%3Dfalse%26roundTripFaresFlag%3Dfalse%26usePoints%3Dfalse, line 3: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A%2F%2Fwww.jetblue.com%2Fbooking%2Fflights%3Ffrom%3DNYC%26to%3DSEA%26depart%3D2023-08-08%26return%3D2023-09-09%26isMultiCity%3Dfalse%26noOfRoute%3D1%26lang%3Den%26adults%3D1%26children%3D0%26infants%3D0%26sharedMarket%3Dfalse%26roundTripFaresFlag%3Dfalse%26usePoints%3Dfalse, line 3: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A%2F%2Fwww.jetblue.com%2Fbooking%2Fflights%3Ffrom%3DNYC%26to%3DSEA%26depart%3D2023-08-08%26return%3D2023-09-09%26isMultiCity%3Dfalse%26noOfRoute%3D1%26lang%3Den%26adults%3D1%26children%3D0%26infants%3D0%26sharedMarket%3Dfalse%26roundTripFaresFlag%3Dfalse%26usePoints%3Dfalse, line 3: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A%2F%2Fwww.jetblue.com%2Fbooking%2Fflights%3Ffrom%3DNYC%26to%3DSEA%26depart%3D2023-08-08%26return%3D2023-09-09%26isMultiCity%3Dfalse%26noOfRoute%3D1%26lang%3Den%26adults%3D1%26children%3D0%26infants%3D0%26sharedMarket%3Dfalse%26roundTripFaresFlag%3Dfalse%26usePoints%3Dfalse, line 3: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=UXE8DVB&referrer=https%3A%2F%2Fwww.jetblue.com%2Fbooking%2Fflights%3Ffrom%3DNYC%26to%3DSEA%26depart%3D2023-08-08%26return%3D2023-09-09%26isMultiCity%3Dfalse%26noOfRoute%3D1%26lang%3Den%26adults%3D1%26children%3D0%26infants%3D0%26sharedMarket%3Dfalse%26roundTripFaresFlag%3Dfalse%26usePoints%3Dfalse, line 3: unreachable code after return statement
+1677428580886	Marionette	INFO	Stopped listening on port 51876
+Dynamically enable window occlusion 1

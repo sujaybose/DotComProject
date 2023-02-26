@@ -207,3 +207,30 @@
 2023-02-26 21:42:25,686 - WDM - INFO - Driver has been saved in cache [C:\Users\sujay\.wdm\drivers\IEDriverServer\win64\latest]
 2023-02-26 21:42:29,110 - root - INFO - *************** Test_001_Login *****************
 2023-02-26 21:42:29,110 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 21:46:53,182 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:46:54,843 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 21:46:54,844 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 21:47:05,343 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 21:47:05,343 - root - INFO - ****Started Flight Search Test ****
+2023-02-26 21:52:23,386 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:52:23,390 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:52:23,947 - WDM - INFO - Get LATEST geckodriver version for 110.0 firefox
+2023-02-26 21:52:24,852 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 21:52:30,833 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 21:52:30,834 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 21:52:36,625 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:52:37,109 - WDM - INFO - Get LATEST geckodriver version for 110.0 firefox
+2023-02-26 21:52:37,656 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 21:52:42,915 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 21:52:42,915 - root - INFO - ****Started Flight Search Test ****
+2023-02-26 21:57:40,406 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:57:40,410 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:57:40,908 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:57:41,479 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:57:42,900 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 21:57:42,901 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 21:57:52,625 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:57:53,188 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:57:53,739 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:57:56,832 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 21:57:56,834 - root - INFO - ****Started Flight Search Test ****
