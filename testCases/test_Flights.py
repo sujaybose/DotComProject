@@ -33,6 +33,7 @@ class Test_001_Login:
         self.logger.info("****Started Flight Search Test ****")
         self.driver = setup
         self.driver.get(self.url)
+        self.driver.maximize_window()
         self.fl = Flights(self.driver)
         self.driver.implicitly_wait(5)
         self.driver.switch_to.frame(1)

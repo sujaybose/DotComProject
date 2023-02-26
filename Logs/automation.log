@@ -8,3 +8,202 @@
 2023-02-26 11:22:34,073 - root - INFO - ****Started Home Page Title Test ****
 2023-02-26 11:22:48,498 - root - INFO - *************** Test_001_Login *****************
 2023-02-26 11:22:48,498 - root - INFO - ****Started Flight Search Test ****
+2023-02-26 19:24:30,131 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 19:24:32,086 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:24:32,086 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 19:24:41,379 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:24:41,380 - root - INFO - ****Started Flight Search Test ****
+2023-02-26 19:26:51,692 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 19:27:25,045 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 19:27:33,863 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 19:33:20,283 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 19:33:20,288 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:33:20,288 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 19:33:20,362 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:33:20,362 - root - INFO - ****Started Flight Search Test ****
+2023-02-26 19:35:21,903 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 19:35:21,908 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:35:21,908 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 19:35:21,985 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:35:21,985 - root - INFO - ****Started Flight Search Test ****
+2023-02-26 19:36:05,931 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 19:36:07,199 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:36:07,201 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 19:36:16,887 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:36:16,887 - root - INFO - ****Started Flight Search Test ****
+2023-02-26 19:37:10,392 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 19:37:10,396 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:37:10,396 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 19:37:10,468 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:37:10,468 - root - INFO - ****Started Flight Search Test ****
+2023-02-26 19:42:07,960 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 19:42:07,965 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:42:07,965 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 19:42:08,051 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:42:08,051 - root - INFO - ****Started Flight Search Test ****
+2023-02-26 19:44:35,408 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 19:45:05,164 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 19:45:05,168 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:45:05,169 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 19:45:05,248 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 19:45:05,248 - root - INFO - ****Started Flight Search Test ****
+2023-02-26 20:08:30,908 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 20:08:32,631 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 20:08:32,632 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 20:08:42,588 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 20:08:42,589 - root - INFO - ****Started Flight Search Test ****
+2023-02-26 20:24:37,877 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 20:27:53,293 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 20:30:51,856 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 20:30:51,859 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 20:30:51,952 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 20:31:04,925 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 20:31:04,928 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 20:31:06,418 - WDM - INFO - Get LATEST geckodriver version for None firefox
+2023-02-26 20:31:07,005 - WDM - INFO - There is no [win64] geckodriver for browser None in cache
+2023-02-26 20:31:07,005 - WDM - INFO - Getting latest mozilla release info for v0.32.2
+2023-02-26 20:31:07,349 - WDM - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.2/geckodriver-v0.32.2-win64.zip
+2023-02-26 20:31:09,018 - WDM - INFO - Driver has been saved in cache [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32]
+2023-02-26 20:31:12,316 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 20:31:12,739 - WDM - INFO - Get LATEST geckodriver version for None firefox
+2023-02-26 20:31:13,279 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 20:42:18,768 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 20:48:31,688 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 20:48:31,692 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 20:48:31,796 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 20:54:14,715 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 20:54:14,720 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 20:54:15,423 - WDM - INFO - Get LATEST geckodriver version for None firefox
+2023-02-26 20:54:16,418 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 20:54:19,631 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 20:54:20,051 - WDM - INFO - Get LATEST geckodriver version for None firefox
+2023-02-26 20:54:20,563 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 20:59:18,661 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 20:59:18,682 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 20:59:19,552 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 20:59:20,297 - WDM - INFO - There is no [win64] edgedriver for browser 110.0.1587 in cache
+2023-02-26 20:59:20,297 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/110.0.1587.57/edgedriver_win64.zip
+2023-02-26 20:59:22,630 - WDM - INFO - Driver has been saved in cache [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587]
+2023-02-26 20:59:23,576 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 20:59:24,050 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 20:59:24,636 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:02:29,256 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:02:29,260 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:02:29,765 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:02:30,346 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:02:30,448 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:02:30,929 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:02:31,486 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:04:28,854 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:04:28,858 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:04:29,322 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:04:29,916 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:04:30,012 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:04:30,484 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:04:31,047 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:04:50,831 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:04:50,836 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:04:51,320 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:04:51,875 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:04:51,969 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:04:52,446 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:04:52,972 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:05:32,714 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:05:32,717 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:05:33,182 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:05:33,757 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:05:33,857 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:05:34,303 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:05:34,831 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:05:52,815 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:05:52,818 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:05:53,285 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:05:53,861 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:05:53,956 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:05:54,411 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:05:54,964 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:07:45,147 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:07:45,151 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:07:45,645 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:07:46,232 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:07:46,331 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:07:46,796 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:07:47,345 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:08:08,746 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:08:08,750 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:08:09,227 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:08:09,834 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:08:09,930 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:08:10,403 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:08:10,953 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:08:42,627 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:08:42,631 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:08:43,101 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:08:43,663 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:08:43,785 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:08:44,267 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:08:44,800 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:14:39,572 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:15:03,415 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:27:34,819 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:27:34,825 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:27:36,250 - WDM - INFO - Get LATEST geckodriver version for None firefox
+2023-02-26 21:27:37,219 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 21:27:37,426 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:27:37,858 - WDM - INFO - Get LATEST geckodriver version for None firefox
+2023-02-26 21:27:38,364 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 21:32:40,286 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:32:40,291 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:32:40,900 - WDM - INFO - Get LATEST geckodriver version for None firefox
+2023-02-26 21:32:41,784 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 21:32:45,056 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:32:45,478 - WDM - INFO - Get LATEST geckodriver version for None firefox
+2023-02-26 21:32:46,036 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 21:33:11,882 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:33:11,885 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:33:12,309 - WDM - INFO - Get LATEST geckodriver version for None firefox
+2023-02-26 21:33:12,845 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 21:33:12,984 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:33:13,397 - WDM - INFO - Get LATEST geckodriver version for None firefox
+2023-02-26 21:33:13,858 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 21:36:06,908 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:36:06,913 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:36:07,389 - WDM - INFO - Get LATEST geckodriver version for None firefox
+2023-02-26 21:36:07,945 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 21:36:11,161 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:36:11,577 - WDM - INFO - Get LATEST geckodriver version for None firefox
+2023-02-26 21:36:12,055 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 21:39:06,592 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:39:06,597 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:39:07,610 - WDM - INFO - Get LATEST geckodriver version for 110.0 firefox
+2023-02-26 21:39:08,330 - WDM - INFO - There is no [win64] geckodriver for browser 110.0 in cache
+2023-02-26 21:39:08,330 - WDM - INFO - Getting latest mozilla release info for v0.32.2
+2023-02-26 21:39:08,661 - WDM - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.2/geckodriver-v0.32.2-win64.zip
+2023-02-26 21:39:10,412 - WDM - INFO - Driver has been saved in cache [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32]
+2023-02-26 21:39:16,160 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 21:39:16,162 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 21:39:19,420 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:39:20,087 - WDM - INFO - Get LATEST geckodriver version for 110.0 firefox
+2023-02-26 21:39:20,764 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+2023-02-26 21:39:26,756 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 21:39:26,757 - root - INFO - ****Started Flight Search Test ****
+2023-02-26 21:40:03,284 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:40:03,288 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:40:03,962 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:40:04,581 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:40:05,813 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 21:40:05,813 - root - INFO - ****Started Home Page Title Test ****
+2023-02-26 21:40:15,659 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:40:16,173 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-26 21:40:16,801 - WDM - INFO - Driver [C:\Users\sujay\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-26 21:40:19,925 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 21:40:19,925 - root - INFO - ****Started Flight Search Test ****
+2023-02-26 21:42:22,266 - root - INFO - ****Started Logging Test Info ****
+2023-02-26 21:42:22,269 - WDM - INFO - ====== WebDriver manager ======
+2023-02-26 21:42:22,419 - WDM - INFO - Get LATEST driver version for latest
+2023-02-26 21:42:23,757 - WDM - INFO - There is no [win64] IEDriverServer for browser latest in cache
+2023-02-26 21:42:23,758 - WDM - INFO - Getting latest ie release info for 4.8.0
+2023-02-26 21:42:24,111 - WDM - INFO - About to download new driver from https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.8.0/IEDriverServer_Win32_4.8.0.zip
+2023-02-26 21:42:25,686 - WDM - INFO - Driver has been saved in cache [C:\Users\sujay\.wdm\drivers\IEDriverServer\win64\latest]
+2023-02-26 21:42:29,110 - root - INFO - *************** Test_001_Login *****************
+2023-02-26 21:42:29,110 - root - INFO - ****Started Home Page Title Test ****

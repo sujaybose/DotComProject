@@ -1,14 +1,30 @@
 import pytest
 from selenium import webdriver
 
+from webdriver_manager.firefox import GeckoDriverManager
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
+from selenium.webdriver.firefox.service import Service as FirefoxService
+from webdriver_manager.firefox import GeckoDriverManager
+from selenium.webdriver.edge.service import Service as EdgeService
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
+from selenium.webdriver.ie.service import Service as IEService
+from webdriver_manager.microsoft import IEDriverManager
+
+
 @pytest.fixture()
 def setup(browser):
     if browser=='chrome':
         driver=webdriver.Chrome()
         print("Launching chrome browser.........")
     elif browser=='firefox':
-        driver = webdriver.Firefox()
-        print("Launching firefox browser.........")
+        driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
+        print("Launching firefox browser.........") # https://pypi.org/project/webdriver-manager/
+    elif browser=='edge':
+        driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
+        print("Launching edge browser.........")
+    else:
+        driver = webdriver.Ie(service=IEService(IEDriverManager().install()))
+        print("Launching ie browser.........")
     return driver
 
 def pytest_addoption(parser):    # This will get the value from CLI /hooks

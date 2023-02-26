@@ -1,17 +1,6 @@
 import logging
 
 
-# class LogGen:
-#     @staticmethod
-#     def loggen():
-#         logger = logging.getLogger()
-#         logging.basicConfig(filename="auto.log", filemode='a',
-#                             format='%(asctime)s: %(levelname)s: %(message)s',
-#                             datefmt='%m/%d/%Y %I:%M:%S %p')
-#         logger.setLevel(logging.INFO)
-#         return logger
-#
-
 class LogGen:
         @staticmethod
         def loggen():
@@ -24,6 +13,3 @@ class LogGen:
             return logger
 
 
-#
-# logger= LogGen.loggen()
-# logger.info("****Started Home Page Title Test ****")
